@@ -1,0 +1,15 @@
+
+Note: 
+Solve any 4 Questions.
+Path to download data set https://github.com/indzeesh/study_material_datascience.git
+
+
+Q1. Implement the Linear Regression algorithm to predict the CO2 emission using Car data set.
+Q2. Implement the logistic Regression Classification algorithm to predict whether the patient is diabetic or not using Diabetes data set.
+Q3. Implement the Decision tree Classification algorithm to predict whether the patient is diabetic or not using Diabetes data set.
+Q4. Implement the Apriori Algorithm using supermarket dataset.
+Q5. What is Clustering ? Explain KNN and KMeans clustering.
+Q6. What is DeepLearning ? Explain why its so popular these Days and its Neural Network Architecture. 	
+	
+
+
